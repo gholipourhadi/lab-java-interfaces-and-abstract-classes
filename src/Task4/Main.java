@@ -13,6 +13,7 @@ public class Main {
         for (int i = 1; i <= 25; i++) {
             list2.add(i);
         }
+        
 
         System.out.println("IntArrayList index 10: " + list1.get(10));
         System.out.println("IntVector index 20: " + list2.get(20));
